@@ -1,6 +1,6 @@
-# Blockchain
-
 # Construction of simple cryptographic hash and Blockchain in C
+
+# Cryptographic Hash
 
 Secure hash functions possess the following properties: 
 
@@ -11,5 +11,10 @@ Secure hash functions possess the following properties:
   -Collision Resistance: It should be hard to find two different messages that result in the same hash
   
   
+  # Blockchain
+  
+  Using a linked list and the cryptographic hash function created, we are able to implement a blockchain- a growing list of records, called blocks, linked with cryptographic operations,
+  
+
   
   
